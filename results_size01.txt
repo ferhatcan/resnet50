@@ -1,0 +1,1714 @@
+train data shape:  (49000, 3072)
+test data shape:  (10000, 3072)
+val data shape:  (1000, 3072)
+*************************
+Starts Trainings
+
+*************************
+Epoch 1/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.1015
+Train Acc: 0.6763
+Train Acc Top2: 0.8259
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.3943
+Validation Acc: 0.8715
+Validation Acc Top2: 0.9614
+-------------------------
+
+
+*************************
+Epoch 2/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0357
+Train Acc: 0.8854
+Train Acc Top2: 0.9633
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.2999
+Validation Acc: 0.9076
+Validation Acc Top2: 0.9652
+-------------------------
+
+
+*************************
+Epoch 3/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0290
+Train Acc: 0.9052
+Train Acc Top2: 0.9734
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.2216
+Validation Acc: 0.9206
+Validation Acc Top2: 0.9834
+-------------------------
+
+
+*************************
+Epoch 4/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0248
+Train Acc: 0.9170
+Train Acc Top2: 0.9796
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.2545
+Validation Acc: 0.9165
+Validation Acc Top2: 0.9801
+-------------------------
+
+
+*************************
+Epoch 5/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0226
+Train Acc: 0.9289
+Train Acc Top2: 0.9796
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.2171
+Validation Acc: 0.9294
+Validation Acc Top2: 0.9748
+-------------------------
+
+
+*************************
+Epoch 6/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0194
+Train Acc: 0.9363
+Train Acc Top2: 0.9830
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1711
+Validation Acc: 0.9452
+Validation Acc Top2: 0.9854
+-------------------------
+
+
+*************************
+Epoch 7/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0205
+Train Acc: 0.9352
+Train Acc Top2: 0.9836
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1680
+Validation Acc: 0.9412
+Validation Acc Top2: 0.9892
+-------------------------
+
+
+*************************
+Epoch 8/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0183
+Train Acc: 0.9398
+Train Acc Top2: 0.9862
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1443
+Validation Acc: 0.9459
+Validation Acc Top2: 0.9865
+-------------------------
+
+
+*************************
+Epoch 9/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0163
+Train Acc: 0.9473
+Train Acc Top2: 0.9877
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1354
+Validation Acc: 0.9488
+Validation Acc Top2: 0.9926
+-------------------------
+
+
+*************************
+Epoch 10/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0139
+Train Acc: 0.9549
+Train Acc Top2: 0.9878
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1294
+Validation Acc: 0.9503
+Validation Acc Top2: 0.9926
+-------------------------
+
+
+*************************
+Epoch 11/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0145
+Train Acc: 0.9552
+Train Acc Top2: 0.9909
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1249
+Validation Acc: 0.9548
+Validation Acc Top2: 0.9958
+-------------------------
+
+
+*************************
+Epoch 12/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0139
+Train Acc: 0.9577
+Train Acc Top2: 0.9886
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1257
+Validation Acc: 0.9541
+Validation Acc Top2: 0.9923
+-------------------------
+
+
+*************************
+Epoch 13/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0134
+Train Acc: 0.9601
+Train Acc Top2: 0.9923
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1223
+Validation Acc: 0.9576
+Validation Acc Top2: 0.9927
+-------------------------
+
+
+*************************
+Epoch 14/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0131
+Train Acc: 0.9596
+Train Acc Top2: 0.9913
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1196
+Validation Acc: 0.9611
+Validation Acc Top2: 0.9941
+-------------------------
+
+
+*************************
+Epoch 15/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0127
+Train Acc: 0.9580
+Train Acc Top2: 0.9904
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1196
+Validation Acc: 0.9583
+Validation Acc Top2: 0.9968
+-------------------------
+
+
+Training complete in 19m 50s
+Best val Acc: 0.961087
+-------------------------
+
+
+*************************
+Epoch 1/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.1537
+Train Acc: 0.5388
+Train Acc Top2: 0.7149
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 1.0281
+Validation Acc: 0.7310
+Validation Acc Top2: 0.8811
+-------------------------
+
+
+*************************
+Epoch 2/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0985
+Train Acc: 0.7096
+Train Acc Top2: 0.8663
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.8437
+Validation Acc: 0.7465
+Validation Acc Top2: 0.8825
+-------------------------
+
+
+*************************
+Epoch 3/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0869
+Train Acc: 0.7226
+Train Acc Top2: 0.8765
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.7658
+Validation Acc: 0.7595
+Validation Acc Top2: 0.8923
+-------------------------
+
+
+*************************
+Epoch 4/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0804
+Train Acc: 0.7384
+Train Acc Top2: 0.8791
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.7265
+Validation Acc: 0.7647
+Validation Acc Top2: 0.9046
+-------------------------
+
+
+*************************
+Epoch 5/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0776
+Train Acc: 0.7463
+Train Acc Top2: 0.8904
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6907
+Validation Acc: 0.7617
+Validation Acc Top2: 0.9103
+-------------------------
+
+
+*************************
+Epoch 6/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0735
+Train Acc: 0.7592
+Train Acc Top2: 0.9007
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6667
+Validation Acc: 0.7746
+Validation Acc Top2: 0.9075
+-------------------------
+
+
+*************************
+Epoch 7/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0717
+Train Acc: 0.7603
+Train Acc Top2: 0.8983
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6482
+Validation Acc: 0.7667
+Validation Acc Top2: 0.9170
+-------------------------
+
+
+*************************
+Epoch 8/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0694
+Train Acc: 0.7695
+Train Acc Top2: 0.8956
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6396
+Validation Acc: 0.7749
+Validation Acc Top2: 0.9144
+-------------------------
+
+
+*************************
+Epoch 9/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0671
+Train Acc: 0.7830
+Train Acc Top2: 0.9144
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6457
+Validation Acc: 0.7760
+Validation Acc Top2: 0.9183
+-------------------------
+
+
+*************************
+Epoch 10/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0685
+Train Acc: 0.7788
+Train Acc Top2: 0.9090
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6556
+Validation Acc: 0.7824
+Validation Acc Top2: 0.9143
+-------------------------
+
+
+*************************
+Epoch 11/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0683
+Train Acc: 0.7710
+Train Acc Top2: 0.9049
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6493
+Validation Acc: 0.7775
+Validation Acc Top2: 0.9172
+-------------------------
+
+
+*************************
+Epoch 12/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0687
+Train Acc: 0.7723
+Train Acc Top2: 0.9064
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6474
+Validation Acc: 0.7859
+Validation Acc Top2: 0.9221
+-------------------------
+
+
+*************************
+Epoch 13/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0676
+Train Acc: 0.7787
+Train Acc Top2: 0.9100
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6471
+Validation Acc: 0.7811
+Validation Acc Top2: 0.9195
+-------------------------
+
+
+*************************
+Epoch 14/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0675
+Train Acc: 0.7783
+Train Acc Top2: 0.9073
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6356
+Validation Acc: 0.7823
+Validation Acc Top2: 0.9191
+-------------------------
+
+
+*************************
+Epoch 15/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0676
+Train Acc: 0.7737
+Train Acc Top2: 0.9036
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6380
+Validation Acc: 0.7793
+Validation Acc Top2: 0.9196
+-------------------------
+
+
+Training complete in 7m 23s
+Best val Acc: 0.785934
+-------------------------
+
+
+*************************
+Epoch 1/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.1566
+Train Acc: 0.5200
+Train Acc Top2: 0.6922
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 1.0531
+Validation Acc: 0.7021
+Validation Acc Top2: 0.8573
+-------------------------
+
+
+*************************
+Epoch 2/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0990
+Train Acc: 0.7051
+Train Acc Top2: 0.8613
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.8502
+Validation Acc: 0.7509
+Validation Acc Top2: 0.8882
+-------------------------
+
+
+*************************
+Epoch 3/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0843
+Train Acc: 0.7344
+Train Acc Top2: 0.8852
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.7876
+Validation Acc: 0.7460
+Validation Acc Top2: 0.8926
+-------------------------
+
+
+*************************
+Epoch 4/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0795
+Train Acc: 0.7431
+Train Acc Top2: 0.8885
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.7383
+Validation Acc: 0.7543
+Validation Acc Top2: 0.9025
+-------------------------
+
+
+*************************
+Epoch 5/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0755
+Train Acc: 0.7543
+Train Acc Top2: 0.8969
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.7132
+Validation Acc: 0.7581
+Validation Acc Top2: 0.9054
+-------------------------
+
+
+*************************
+Epoch 6/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0753
+Train Acc: 0.7501
+Train Acc Top2: 0.8930
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6672
+Validation Acc: 0.7709
+Validation Acc Top2: 0.9211
+-------------------------
+
+
+*************************
+Epoch 7/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0736
+Train Acc: 0.7538
+Train Acc Top2: 0.8923
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6568
+Validation Acc: 0.7712
+Validation Acc Top2: 0.9184
+-------------------------
+
+
+*************************
+Epoch 8/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0692
+Train Acc: 0.7718
+Train Acc Top2: 0.9039
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6413
+Validation Acc: 0.7846
+Validation Acc Top2: 0.9151
+-------------------------
+
+
+*************************
+Epoch 9/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0683
+Train Acc: 0.7784
+Train Acc Top2: 0.9082
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6471
+Validation Acc: 0.7801
+Validation Acc Top2: 0.9176
+-------------------------
+
+
+*************************
+Epoch 10/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0693
+Train Acc: 0.7685
+Train Acc Top2: 0.9047
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6465
+Validation Acc: 0.7810
+Validation Acc Top2: 0.9182
+-------------------------
+
+
+*************************
+Epoch 11/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0689
+Train Acc: 0.7749
+Train Acc Top2: 0.9024
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6544
+Validation Acc: 0.7749
+Validation Acc Top2: 0.9152
+-------------------------
+
+
+*************************
+Epoch 12/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0685
+Train Acc: 0.7763
+Train Acc Top2: 0.9025
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6387
+Validation Acc: 0.7891
+Validation Acc Top2: 0.9153
+-------------------------
+
+
+*************************
+Epoch 13/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0680
+Train Acc: 0.7769
+Train Acc Top2: 0.9068
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6346
+Validation Acc: 0.7781
+Validation Acc Top2: 0.9164
+-------------------------
+
+
+*************************
+Epoch 14/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0712
+Train Acc: 0.7626
+Train Acc Top2: 0.8968
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6425
+Validation Acc: 0.7838
+Validation Acc Top2: 0.9177
+-------------------------
+
+
+*************************
+Epoch 15/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0686
+Train Acc: 0.7748
+Train Acc Top2: 0.9045
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.6572
+Validation Acc: 0.7920
+Validation Acc Top2: 0.9152
+-------------------------
+
+
+Training complete in 7m 17s
+Best val Acc: 0.792005
+-------------------------
+
+
+*************************
+Epoch 1/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0241
+Train Acc: 0.6590
+Train Acc Top2: 0.8027
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0697
+Validation Acc: 0.8566
+Validation Acc Top2: 0.9523
+-------------------------
+
+
+*************************
+Epoch 2/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0066
+Train Acc: 0.8549
+Train Acc Top2: 0.9503
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0461
+Validation Acc: 0.8901
+Validation Acc Top2: 0.9665
+-------------------------
+
+
+*************************
+Epoch 3/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0050
+Train Acc: 0.8779
+Train Acc Top2: 0.9638
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0399
+Validation Acc: 0.9065
+Validation Acc Top2: 0.9757
+-------------------------
+
+
+*************************
+Epoch 4/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0044
+Train Acc: 0.8886
+Train Acc Top2: 0.9679
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0350
+Validation Acc: 0.9117
+Validation Acc Top2: 0.9756
+-------------------------
+
+
+*************************
+Epoch 5/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0040
+Train Acc: 0.8964
+Train Acc Top2: 0.9698
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0300
+Validation Acc: 0.9245
+Validation Acc Top2: 0.9836
+-------------------------
+
+
+*************************
+Epoch 6/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0037
+Train Acc: 0.9039
+Train Acc Top2: 0.9756
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0280
+Validation Acc: 0.9223
+Validation Acc Top2: 0.9850
+-------------------------
+
+
+*************************
+Epoch 7/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0030
+Train Acc: 0.9196
+Train Acc Top2: 0.9806
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0256
+Validation Acc: 0.9343
+Validation Acc Top2: 0.9819
+-------------------------
+
+
+*************************
+Epoch 8/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0031
+Train Acc: 0.9224
+Train Acc Top2: 0.9812
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0256
+Validation Acc: 0.9362
+Validation Acc Top2: 0.9830
+-------------------------
+
+
+*************************
+Epoch 9/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0029
+Train Acc: 0.9260
+Train Acc Top2: 0.9803
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0255
+Validation Acc: 0.9297
+Validation Acc Top2: 0.9823
+-------------------------
+
+
+*************************
+Epoch 10/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0029
+Train Acc: 0.9227
+Train Acc Top2: 0.9818
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0248
+Validation Acc: 0.9375
+Validation Acc Top2: 0.9833
+-------------------------
+
+
+*************************
+Epoch 11/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0029
+Train Acc: 0.9204
+Train Acc Top2: 0.9811
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0247
+Validation Acc: 0.9360
+Validation Acc Top2: 0.9855
+-------------------------
+
+
+*************************
+Epoch 12/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0025
+Train Acc: 0.9360
+Train Acc Top2: 0.9833
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0238
+Validation Acc: 0.9403
+Validation Acc Top2: 0.9845
+-------------------------
+
+
+*************************
+Epoch 13/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0027
+Train Acc: 0.9304
+Train Acc Top2: 0.9822
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0237
+Validation Acc: 0.9416
+Validation Acc Top2: 0.9855
+-------------------------
+
+
+*************************
+Epoch 14/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0026
+Train Acc: 0.9340
+Train Acc Top2: 0.9847
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0234
+Validation Acc: 0.9405
+Validation Acc Top2: 0.9836
+-------------------------
+
+
+*************************
+Epoch 15/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0027
+Train Acc: 0.9298
+Train Acc Top2: 0.9824
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.0236
+Validation Acc: 0.9394
+Validation Acc Top2: 0.9854
+-------------------------
+
+
+Training complete in 19m 52s
+Best val Acc: 0.941612
+-------------------------
+
+
+*************************
+Epoch 1/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0369
+Train Acc: 0.5143
+Train Acc Top2: 0.7022
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1729
+Validation Acc: 0.7135
+Validation Acc Top2: 0.8689
+-------------------------
+
+
+*************************
+Epoch 2/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0182
+Train Acc: 0.6983
+Train Acc Top2: 0.8579
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1411
+Validation Acc: 0.7324
+Validation Acc Top2: 0.8973
+-------------------------
+
+
+*************************
+Epoch 3/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0155
+Train Acc: 0.7154
+Train Acc Top2: 0.8739
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1366
+Validation Acc: 0.7352
+Validation Acc Top2: 0.8884
+-------------------------
+
+
+*************************
+Epoch 4/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0140
+Train Acc: 0.7328
+Train Acc Top2: 0.8837
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1240
+Validation Acc: 0.7600
+Validation Acc Top2: 0.9035
+-------------------------
+
+
+*************************
+Epoch 5/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0136
+Train Acc: 0.7399
+Train Acc Top2: 0.8840
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1209
+Validation Acc: 0.7516
+Validation Acc Top2: 0.9021
+-------------------------
+
+
+*************************
+Epoch 6/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0130
+Train Acc: 0.7505
+Train Acc Top2: 0.8956
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1118
+Validation Acc: 0.7698
+Validation Acc Top2: 0.9073
+-------------------------
+
+
+*************************
+Epoch 7/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0125
+Train Acc: 0.7545
+Train Acc Top2: 0.8968
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1069
+Validation Acc: 0.7740
+Validation Acc Top2: 0.9181
+-------------------------
+
+
+*************************
+Epoch 8/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0117
+Train Acc: 0.7773
+Train Acc Top2: 0.8994
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1065
+Validation Acc: 0.7884
+Validation Acc Top2: 0.9178
+-------------------------
+
+
+*************************
+Epoch 9/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0126
+Train Acc: 0.7598
+Train Acc Top2: 0.8965
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1075
+Validation Acc: 0.7877
+Validation Acc Top2: 0.9202
+-------------------------
+
+
+*************************
+Epoch 10/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0119
+Train Acc: 0.7659
+Train Acc Top2: 0.8989
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1074
+Validation Acc: 0.7886
+Validation Acc Top2: 0.9205
+-------------------------
+
+
+*************************
+Epoch 11/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0115
+Train Acc: 0.7665
+Train Acc Top2: 0.9061
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1053
+Validation Acc: 0.7912
+Validation Acc Top2: 0.9192
+-------------------------
+
+
+*************************
+Epoch 12/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0116
+Train Acc: 0.7645
+Train Acc Top2: 0.9012
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1065
+Validation Acc: 0.7874
+Validation Acc Top2: 0.9187
+-------------------------
+
+
+*************************
+Epoch 13/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0114
+Train Acc: 0.7677
+Train Acc Top2: 0.9053
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1064
+Validation Acc: 0.7821
+Validation Acc Top2: 0.9132
+-------------------------
+
+
+*************************
+Epoch 14/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0114
+Train Acc: 0.7754
+Train Acc Top2: 0.9053
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1047
+Validation Acc: 0.7829
+Validation Acc Top2: 0.9181
+-------------------------
+
+
+*************************
+Epoch 15/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0119
+Train Acc: 0.7662
+Train Acc Top2: 0.8974
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1046
+Validation Acc: 0.7874
+Validation Acc Top2: 0.9207
+-------------------------
+
+
+Training complete in 7m 17s
+Best val Acc: 0.791172
+-------------------------
+
+
+*************************
+Epoch 1/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0357
+Train Acc: 0.5209
+Train Acc Top2: 0.7050
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1762
+Validation Acc: 0.7002
+Validation Acc Top2: 0.8703
+-------------------------
+
+
+*************************
+Epoch 2/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0174
+Train Acc: 0.7004
+Train Acc Top2: 0.8651
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1448
+Validation Acc: 0.7300
+Validation Acc Top2: 0.8811
+-------------------------
+
+
+*************************
+Epoch 3/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0152
+Train Acc: 0.7215
+Train Acc Top2: 0.8831
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1310
+Validation Acc: 0.7463
+Validation Acc Top2: 0.8980
+-------------------------
+
+
+*************************
+Epoch 4/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0146
+Train Acc: 0.7227
+Train Acc Top2: 0.8826
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1241
+Validation Acc: 0.7611
+Validation Acc Top2: 0.8981
+-------------------------
+
+
+*************************
+Epoch 5/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0131
+Train Acc: 0.7428
+Train Acc Top2: 0.8912
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1172
+Validation Acc: 0.7645
+Validation Acc Top2: 0.9132
+-------------------------
+
+
+*************************
+Epoch 6/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0131
+Train Acc: 0.7413
+Train Acc Top2: 0.8867
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1167
+Validation Acc: 0.7578
+Validation Acc Top2: 0.9180
+-------------------------
+
+
+*************************
+Epoch 7/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0127
+Train Acc: 0.7456
+Train Acc Top2: 0.8934
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1105
+Validation Acc: 0.7615
+Validation Acc Top2: 0.9110
+-------------------------
+
+
+*************************
+Epoch 8/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0119
+Train Acc: 0.7755
+Train Acc Top2: 0.9008
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1093
+Validation Acc: 0.7606
+Validation Acc Top2: 0.9138
+-------------------------
+
+
+*************************
+Epoch 9/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0115
+Train Acc: 0.7622
+Train Acc Top2: 0.9102
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1080
+Validation Acc: 0.7650
+Validation Acc Top2: 0.9110
+-------------------------
+
+
+*************************
+Epoch 10/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0119
+Train Acc: 0.7684
+Train Acc Top2: 0.9027
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1074
+Validation Acc: 0.7604
+Validation Acc Top2: 0.9171
+-------------------------
+
+
+*************************
+Epoch 11/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0116
+Train Acc: 0.7769
+Train Acc Top2: 0.9077
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1060
+Validation Acc: 0.7658
+Validation Acc Top2: 0.9145
+-------------------------
+
+
+*************************
+Epoch 12/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0113
+Train Acc: 0.7708
+Train Acc Top2: 0.9066
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1071
+Validation Acc: 0.7654
+Validation Acc Top2: 0.9132
+-------------------------
+
+
+*************************
+Epoch 13/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0110
+Train Acc: 0.7828
+Train Acc Top2: 0.9095
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1081
+Validation Acc: 0.7656
+Validation Acc Top2: 0.9130
+-------------------------
+
+
+*************************
+Epoch 14/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0118
+Train Acc: 0.7662
+Train Acc Top2: 0.9012
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1093
+Validation Acc: 0.7709
+Validation Acc Top2: 0.9197
+-------------------------
+
+
+*************************
+Epoch 15/15
+
+-------------------------
+Image processed: 4900/49000
+Train Loss: 0.0117
+Train Acc: 0.7636
+Train Acc Top2: 0.9040
+-------------------------
+
+
+Image processed:950/1000
+Validation Loss: 0.1078
+Validation Acc: 0.7717
+Validation Acc Top2: 0.9141
+-------------------------
+
+
+Training complete in 7m 18s
+Best val Acc: 0.771689
+-------------------------
+
+
+Starts Testing
+
+Image processed:9975/10000
+Test Acc: 0.9551
+Test Acc Top2: 0.9913
+
+Testing completed in 0m 47s
+Best Accuracy: 0.955100
+-------------------------
+
+
+Image processed:1000/10000
+Test Acc: 0.8193
+Test Acc Top2: 0.9281
+
+Testing completed in 0m 5s
+Best Accuracy: 0.819333
+-------------------------
+
+
+Image processed:1000/10000
+Test Acc: 0.7807
+Test Acc Top2: 0.9015
+
+Testing completed in 0m 5s
+Best Accuracy: 0.780668
+-------------------------
+
+
+Image processed:1000/10000
+Test Acc: 0.9269
+Test Acc Top2: 0.9796
+
+Testing completed in 0m 5s
+Best Accuracy: 0.926869
+-------------------------
+
+
+Image processed:1000/10000
+Test Acc: 0.7811
+Test Acc Top2: 0.9231
+
+Testing completed in 0m 5s
+Best Accuracy: 0.781061
+-------------------------
+
+
+Image processed:1000/10000
+Test Acc: 0.7960
+Test Acc Top2: 0.9179
+
+Testing completed in 0m 5s
+Best Accuracy: 0.795950
+-------------------------
+
+
+*************************
+End
