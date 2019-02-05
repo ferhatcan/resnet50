@@ -10,4 +10,4 @@
   2. __Dataset.py:__ It is used for Dataloader. It holds data Ids and labels.
   3. __transfer_learning.py:__ It is used for train and test network with desired settings.
 
-### Note: Transfer_learning_resnet50.ipynb includes testing steps.
+### Note: Transfer_learning_resnet50.ipynb includes testing steps with some results obtained.
