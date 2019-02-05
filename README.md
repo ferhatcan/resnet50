@@ -9,3 +9,5 @@
   1. __cifar_DataCreate.py:__ It reads cifar10 batches and generate train, validation and test datasets.
   2. __Dataset.py:__ It is used for Dataloader. It holds data Ids and labels.
   3. __transfer_learning.py:__ It is used for train and test network with desired settings.
+
+### Note: Transfer_learning_resnet50.ipynb includes testing steps.
